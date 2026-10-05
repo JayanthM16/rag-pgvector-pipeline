@@ -1,0 +1,14 @@
+{"question": "How does Delta Lake provide ACID transactions on Parquet files?", "expected_doc": "delta_lake.md"}
+{"question": "What does the VACUUM command do?", "expected_doc": "delta_lake.md"}
+{"question": "How can I query an older version of a table in Delta?", "expected_doc": "delta_lake.md"}
+{"question": "What is hidden partitioning?", "expected_doc": "iceberg.md"}
+{"question": "Why is renaming a column safe in Iceberg?", "expected_doc": "iceberg.md"}
+{"question": "Which procedures compact small files and remove old snapshots in Iceberg?", "expected_doc": "iceberg.md"}
+{"question": "What does a Debezium change event contain?", "expected_doc": "kafka_streaming.md"}
+{"question": "Is message ordering guaranteed across Kafka partitions?", "expected_doc": "kafka_streaming.md"}
+{"question": "How do you get effectively-once processing with Spark Structured Streaming?", "expected_doc": "kafka_streaming.md"}
+{"question": "What does setting catchup to false do in Airflow?", "expected_doc": "airflow_orchestration.md"}
+{"question": "How do I stop overlapping runs of the same DAG?", "expected_doc": "airflow_orchestration.md"}
+{"question": "Which metrics measure retrieval quality?", "expected_doc": "vector_search.md"}
+{"question": "Why does chunk overlap help?", "expected_doc": "vector_search.md"}
+{"question": "Which PostgreSQL extension adds HNSW vector indexes?", "expected_doc": "vector_search.md"}
